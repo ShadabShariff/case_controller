@@ -8,9 +8,9 @@ setuptools.setup(
     description='Testing installation of Package',
     long_description="Read from file for longer description",
     long_description_content_type="text/markdown",
-    url='https://github.com/ShadabShariff/package_installer/case_controller',
+    url='https://github.com/ShadabShariff/case_controller',
     project_urls = {
-        "Bug Tracker": "https://github.com/ShadabShariff/package_installer/case_controller/issues"
+        "Bug Tracker": "https://github.com/ShadabShariff/case_controller/issues"
     },
     packages=['case_controller'],
 )
